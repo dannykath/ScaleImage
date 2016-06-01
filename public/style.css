@@ -1,0 +1,38 @@
+ul{
+	list-style: none;
+	
+}
+li{
+	display: inline;
+	color:blue;
+	background-color: lightgray;
+
+
+}
+#image1:hover{
+-webkit-filter:grayscale(100%);
+
+}
+
+#image2:hover{
+-webkit-filter:invert(100%);
+
+}
+
+#image3:hover{
+-webkit-filter:sepia(60%);
+
+}
+
+#image4:hover{
+-webkit-filter:brightness(25%);
+
+}
+#image5:hover{
+-webkit-filter:saturate(250%);
+
+}
+
+	
+
+
